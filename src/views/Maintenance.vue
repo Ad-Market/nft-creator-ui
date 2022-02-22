@@ -5,7 +5,8 @@
     class="mb-12"
   >
     <p class="text-center mt-10">
-      NFTCreator is under maintenance
+      NFTCreator is deprecated<br>
+      Use <a href="https://www.holaplex.com/">Holaplex</a>
     </p>
   </v-container>
 </template>
